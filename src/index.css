@@ -6,8 +6,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #282c34;
-  z-index: 1000;
-  transform:translateZ(1000px);
+      z-index: 1000;
+    transform:translateZ(1000px);
 }
 
 .root {
