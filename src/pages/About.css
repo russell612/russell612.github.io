@@ -1,0 +1,50 @@
+.About {
+    text-align: top;
+    color: white;
+    padding-left: 10%;
+    background-color: #282c34;
+    padding-right: 10%;
+}
+
+
+.Headings {
+    text-align: left;
+    background-color: #282c34;
+}
+
+.nav-tabs .nav-link {
+    background-color:  #282c34!important;
+    color: #FFFFFF !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+  }
+
+.AboutHeader {
+    background-color: #282c34;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding-top: 5%;
+}
+
+.AboutHeaderRight {
+    background-color: #282c34;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding-top: 5%;
+}
+
+*{
+    -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+    display: none;
+}
